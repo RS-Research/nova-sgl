@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas
+scipy
+scikit-learn
+torch==2.5.1
+recbole
+kmeans-pytorch
+faiss-cpu
+lightgbm
+colorlog
+tqdm
+pyyaml
+tensorboard

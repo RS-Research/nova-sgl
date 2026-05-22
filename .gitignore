@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# RecBole outputs
+saved/
+log/
+*.pth
+*.pt
+*.ckpt
+
+# Data
+data/*
+!data/README.md
+
+# Results
+results/*
+!results/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.log
+*.tmp
